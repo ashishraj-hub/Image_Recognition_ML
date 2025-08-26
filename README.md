@@ -38,9 +38,6 @@ To create a machine learning model capable of recognizing and classifying images
    - Test model on unseen images
    - Display predicted labels
 
-## 📂 File Structure
-Image_Recognition_ML/ ├── Image_Recognition_Bootcamp.ipynb # Main notebook ├── dataset/ # Image dataset (assumed) ├── README.md # Project documentation
-
 
 ## 🏅 Achievements
 
