@@ -84,7 +84,7 @@ If you found this project useful, interesting, or inspiring — let's connect!
 If this README or project helped you:
 - **Star** ⭐ this repository
 - **Fork** 🍴 it and build your own version
-- **Share** it with someone who is learning Power BI
+- **Share** it with someone who is learning AI/ML
 
 ---
 
