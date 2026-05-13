@@ -2,15 +2,21 @@
 
 Welcome to the **Image Recognition ML** project, developed as part of a bootcamp focused on applying machine learning to computer vision tasks. This notebook demonstrates how to build and train a model that can classify images using supervised learning techniques.
 
+---
+
 ## 🎯 Project Objective
 
 To create a machine learning model capable of recognizing and classifying images into predefined categories. The project walks through the full ML pipeline—from data loading and preprocessing to model training and evaluation.
+
+---
 
 ## 🧪 Dataset
 
 - **Source:** Image dataset (details assumed from notebook context)
 - **Format:** Likely structured as folders per class or labeled CSV
 - **Classes:** Multiple image categories (e.g., animals, objects, etc.)
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -19,6 +25,8 @@ To create a machine learning model capable of recognizing and classifying images
 - **OpenCV / PIL**: Image processing
 - **Matplotlib / Seaborn**: Visualization
 - **Google Colab**: Development environment
+
+---
 
 ## 🚀 Workflow Overview
 
@@ -39,14 +47,20 @@ To create a machine learning model capable of recognizing and classifying images
    - Display predicted labels
 
 
+---
+
 ## 🏅 Achievements
 
 ✅ Completed as part of a bootcamp  
 📜 Earned both **Participation Certificate** and **Project Completion Certificate** for successfully building and presenting the model
 
+---
+
 ## 🤝 Acknowledgments
 
 Thanks to the bootcamp mentors and peers for their support and feedback throughout this project. This experience deepened my understanding of computer vision and model deployment.
+
+---
 
 ## 📜 License
 
@@ -54,4 +68,23 @@ This project is open-source and available under the MIT License.
 
 ---
 
+## 🤝 Connect With Me
+
+If you found this project useful, interesting, or inspiring — let's connect!
+
+| Platform | Link |
+|----|----|
+| 💼 LinkedIn | [Ashish Raj](https://www.linkedin.com/in/ashish-raj-ashishraj/) |
+| 🐙 GitHub | [Ashish Raj](https://github.com/ashishraj-hub)  |
+
+---
+
+### ⭐ Support This Project
+
+If this README or project helped you:
+- **Star** ⭐ this repository
+- **Fork** 🍴 it and build your own version
+- **Share** it with someone who is learning Power BI
+
+---
 
